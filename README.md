@@ -11,4 +11,4 @@
 - Comma Formatting: Automatically formats numbers with commas for better readability.
 - Responsive Font Size: Adjusts display font size based on input length.
 
- ![Clock preview] ![iOS (1)](https://github.com/user-attachments/assets/fd0cc46f-4f76-4aca-98fa-b2c4082a12dd)
+ ![Image preview] ![iOS (1)](https://github.com/user-attachments/assets/fd0cc46f-4f76-4aca-98fa-b2c4082a12dd)
